@@ -10,6 +10,8 @@ Senior Business Inteligence | Data Scientist
 
 💬 Falo sobre: Python, ML, Big Data e Dados
 
+Canal do Youtube: https://www.youtube.com/@ygorazevedo4448/videos
+
 📫 Contato: https://www.linkedin.com/in/ygorac  || E-mail: ygorca125@gmail.com
 
 ---
