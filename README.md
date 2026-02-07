@@ -1,4 +1,4 @@
-# -Ygorca125
+# Ygorca125
 
 # Seu Nome 👋
 **Data Analyst | Data Science | SQL | Python**
