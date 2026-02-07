@@ -1,5 +1,7 @@
-# Ygor Azevedo | Senior Business Inteligence | Data Science 
+# Ygor Azevedo 
 
+Senior Business Inteligence | Data Scientist
+--
 📍 Recife, Brasil  
 
 🔭 Atualmente: Senior Business Inteligence Analyst - Arco Educação
