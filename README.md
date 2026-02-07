@@ -1,39 +1,34 @@
-# Ygorca125
-
-# Seu Nome 👋
-**Data Analyst | Data Science | SQL | Python**
+# Ygor Azevedo | Senior Business Inteligence | Data Science 
 
 📍 Recife, Brasil  
-🔭 Atualmente: [o que você está fazendo agora]  
-🌱 Estudando: [ex.: Machine Learning, Forecasting, BigQuery]  
-💬 Falo sobre: [ex.: dados, BI, métricas, ML]  
-📫 Contato: [LinkedIn] | [Email]
+
+🔭 Atualmente: Senior Business Inteligence Analyst - Arco Educação
+
+🌱 Estudando: Pós Gradução Em Data Analytics/ML - FIAP
+
+💬 Falo sobre: Python, ML, Big Data e Dados
+
+📫 Contato: https://www.linkedin.com/in/ygorac  || E-mail: ygorca125@gmail.com
 
 ---
 
 ## Sobre mim
-Um parágrafo curto (3–5 linhas) dizendo:
-- quem você é
-- com o que trabalha/estuda
-- que tipo de problema gosta de resolver
+Sou engenheiro de produção por formação e atuei na área de processos por alguns anos, sempre utilizando dados para a criação de projetos e a tomada de decisão. Até que resolvi migrar e focar exclusivamente na área de dados.
+
+Iniciei na Arco Educação como Analista Sênior de Business Intelligence em 2025 e, desde então, tenho aprofundado minhas habilidades em Machine Learning (modelos clássicos) e também em LLMs e redes neurais. Iniciei minha pós-graduação voltada para Data Analytics e Machine Learning e tenho feito cursos em paralelo, me aprofundando cada vez mais nas tecnologias mais recentes.
+
+Tenho paixão por resolver problemas que impactam o negócio e sou um grande solucionador de problemas.
 
 ---
 
 ## Skills / Ferramentas
-- **Linguagens:** SQL, Python  
-- **Dados:** BigQuery, Postgres, Pandas  
-- **BI:** Metabase, Power BI  
-- **ML:** scikit-learn, statsmodels (se usar)
+
+
 
 ---
 
 ## Projetos em destaque
-- 📌 **Projeto 1:** link + 1 linha do que fez
-- 📌 **Projeto 2:** link + 1 linha do que fez
-- 📌 **Projeto 3:** link + 1 linha do que fez
+- 📌 **Projeto 1:https://github.com/Ygorca125/Projeto-Prev_Ibov - Apresentação no youtube: https://youtu.be/ZqsMfRRkWUE
+- 📌 **Projeto 2: [CARREGANDO]
+- 📌 **Projeto 3: [CARREGANDO]
 
----
-
-## Links
-- LinkedIn: ...
-- Portfólio (se tiver): ...
