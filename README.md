@@ -33,6 +33,7 @@ Tenho paixão por resolver problemas que impactam o negócio e sou um grande sol
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/31a36443-a9c8-49f2-8e34-07d6d2004e25" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/439f2b7e-4ec9-4ce2-a2d4-80bce4fc76fc" />
 
+Outras Skills: Metabase, Metódologia Ágil, Gestão de projetos, Lean e Melhoria Contínua
 ---
 
 ## Projetos em destaque
