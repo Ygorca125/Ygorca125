@@ -37,7 +37,7 @@ Outras Skills: Metabase, Metódologia Ágil, Gestão de projetos, Lean e Melhori
 ---
 
 ## Projetos em destaque
-- 📌 **Projeto 1: https://github.com/Ygorca125/Series-Temporais-aluguel-de-carros
-- 📌 **Projeto 2: https://github.com/Ygorca125/Projeto-Prev_Ibov - Apresentação no youtube: https://youtu.be/ZqsMfRRkWUE
+- 📌 **Projeto 1: [Séries Temporais] https://github.com/Ygorca125/Series-Temporais-aluguel-de-carros
+- 📌 **Projeto 2: [Séries Temporais] https://github.com/Ygorca125/Projeto-Prev_Ibov - Apresentação no youtube: https://youtu.be/ZqsMfRRkWUE
 - 📌 **Projeto 3: [CARREGANDO]
 
