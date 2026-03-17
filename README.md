@@ -32,6 +32,10 @@ Tenho paixão por resolver problemas que impactam o negócio e sou um grande sol
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2a5f564e-f702-4bf3-b427-afbb6e45fe57" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/263ba0b2-e15a-4b0b-b6f9-b34a32116f0b" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/31a36443-a9c8-49f2-8e34-07d6d2004e25" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/439f2b7e-4ec9-4ce2-a2d4-80bce4fc76fc" />
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+
+
+
 
 Outras Skills: Metabase, Metódologia Ágil, Gestão de projetos, Lean e Melhoria Contínua
 ---
