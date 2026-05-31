@@ -36,17 +36,8 @@ Tenho paixão por resolver problemas que impactam o negócio e sou um grande sol
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/ddd3095c-2022-4f54-bb77-cf9c69169c2e" />
 <img width="70" height="70" alt="Streamlit" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" />
 
+Outras Skills: Metódologia Ágil, Gestão de projetos, Lean e Melhoria Contínua
 
-
-
-
-
-
-
-
-
-
-Outras Skills: Metabase, Metódologia Ágil, Gestão de projetos, Lean e Melhoria Contínua
 ---
 
 ## Projetos em destaque
