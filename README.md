@@ -51,3 +51,6 @@ Outras Skills: Metódologia Ágil, Gestão de projetos, Lean e Melhoria Contínu
 📌 **Projeto 3: Previsão de Aluguel de Carros** `[Séries Temporais]`  
 [Repositório](https://github.com/Ygorca125/Series-Temporais-aluguel-de-carros)
 
+📌 **Projeto 4: Previsão Risco Defasagem** `[Classificação]`  
+[Repositório]([https://github.com/Ygorca125/Series-Temporais-aluguel-de-carros](https://github.com/Ygorca125/Projeto-Previs-o-defasagem-alunos/blob/main/README.md))
+
