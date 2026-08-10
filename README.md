@@ -6,7 +6,8 @@ Senior Business Inteligence | Data Scientist
 
 🔭 Atualmente: Senior Business Inteligence Analyst - Arco Educação
 
-🌱 Estudando: Pós Gradução Em Data Analytics/ML - FIAP
+📚 Engenheiro de produção e Finalizando Pós Graduado em Analytics/ML - FIAP
+
 
 💬 Falo sobre: Python, ML, Big Data e Dados
 
